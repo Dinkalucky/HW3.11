@@ -11,7 +11,7 @@ namespace Task11._7
         static void Main(string[] args)
         {
             MyClass.FactoryMethod<int>();
-            //MyClass.FactoryMethod<string>(); T повинен бути типом значення
+            //MyClass.FactoryMethod<string>();T повинен бути типом значення
         }
     }
 }
